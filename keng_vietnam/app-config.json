@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "Keng Vietnam",
+    "textColor": {
+      "light": "white",
+      "dark": "white"
+    },
+    "statusBar": "transparent",
+    "headerColor": "#060403",
+    "actionBarHidden": false,
+    "hideIOSSafeAreaBottom": true,
+    "hideAndroidBottomNavigationBar": false
+  },
+  "permissions": [
+    "scope.userInfo"
+  ],
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}

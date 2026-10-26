@@ -1,0 +1,30 @@
+<svg width="1306" height="299" viewBox="0 0 1306 299" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- V -->
+  <g transform="translate(0, 0)">
+    <path d="M0 0 H52 L95 205 L138 0 H190 L115 298 H75 L0 0 Z" fill="white"/>
+  </g>
+  <!-- I -->
+  <g transform="translate(214, 0)">
+    <path d="M0 0 H52 V298 H0 Z" fill="white"/>
+  </g>
+  <!-- E -->
+  <g transform="translate(290, 0)">
+    <path d="M0 0 H136 L160 24 V52 H52 V123 H110 L130 143 V155 L110 175 H52 V246 H160 V274 L136 298 H0 Z" fill="white"/>
+  </g>
+  <!-- T -->
+  <g transform="translate(474, 0)">
+    <path d="M0 18 L18 0 H152 L170 18 V52 H111 V298 H59 V52 H0 Z" fill="white"/>
+  </g>
+  <!-- N -->
+  <g transform="translate(668, 0)">
+    <path d="M0 0 H52 L128 175 V0 H180 V298 H128 L52 123 V298 H0 Z" fill="white"/>
+  </g>
+  <!-- A -->
+  <g transform="translate(872, 0)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M69 0 H121 L190 298 H138 L126 210 H64 L52 298 H0 L69 0 Z M95 62 L120 162 H70 Z" fill="white"/>
+  </g>
+  <!-- M -->
+  <g transform="translate(1086, 0)">
+    <path d="M0 0 H52 L110 160 L168 0 H220 V298 H168 V90 L110 240 L52 90 V298 H0 Z" fill="white"/>
+  </g>
+</svg>

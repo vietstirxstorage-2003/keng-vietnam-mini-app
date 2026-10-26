@@ -1,0 +1,32 @@
+.page {
+  padding: 16px 16px 96px 16px;
+}
+
+/* Đảm bảo toàn bộ Modal và Popup ZaUI luôn có nền sáng và chữ đen sắc nét */
+.zaui-modal-content {
+  background: #ffffff !important;
+  color: #111827 !important;
+  border-radius: 24px !important;
+  overflow: hidden !important;
+}
+
+.zaui-modal-title {
+  color: #111827 !important;
+  font-weight: 700 !important;
+}
+
+.zaui-modal-description {
+  color: #d30013 !important;
+  font-weight: 600 !important;
+}
+
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.zaui-list-item {
+  cursor: pointer;
+}
